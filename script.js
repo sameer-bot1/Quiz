@@ -10,9 +10,9 @@ const quizData = [
         "answer": "Leonardo Da Vinci"
     },
     {
-        "question": "name?",
-        "options": ["sameer", "ria", "h", "locket"],
-        "answer": "sameer"
+        "question": "Which of the three banks will be merged with the other two to create India’s third-largest bank?",
+        "options": ["Punjab National Bank", "Indian Bank", "Bank of Baroda ", "Dena Bank"],
+        "answer": "Indian Bank"
     }
 ];
 const questionContainer = document.getElementById('question-container');
